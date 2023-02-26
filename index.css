@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+div.container{display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    width: 100%;
+    height: 100vh;
+
+    
+
+}
+
+div.biscuit{display: flex;
+    padding: 1rem 1rem;
+    flex-direction: column;
+    background-color: aliceblue;
+width: 80%;
+max-width: 25rem;/*
+align-items: center;*/
+border-radius: 15px;
+text-align: justify;
+
+}
+
+img{
+    width: 100%;
+    height: 100%;
+
+}
+
+h3{
+    padding-top: 20px;
+}
